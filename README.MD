@@ -1,1 +1,2 @@
-Hasil belajar design patter menggunakana bahasa pemrogramana Javascript
+# Javascript Design Pattern
+Reporsitori ini adalah hasil belajar design pattern menggunakana bahasa pemrogramana Javascript
